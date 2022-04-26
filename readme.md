@@ -17,6 +17,7 @@
 ![本地视频](https://github.com/Javacr/PyQt5-YOLOv5/blob/master/imgs/%E8%A7%86%E9%A2%91.png)
 
 
+
 **功能：**
 
 1. 模型选择
