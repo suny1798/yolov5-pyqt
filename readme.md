@@ -4,11 +4,6 @@
 本仓库依赖模型有yolov5s.pt、yolov5m.pt、yolov5l.pt、yolov5x.pt,下载地址：https://github.com/ultralytics/yolov5/releases/tag/v5.0
 点击地址后翻到最下面有下载链接，将下载好的模型放在pt文件夹下，运行界面时，**会自动检测已有模型**。
 
-如果模型下载太慢，可以用百度网盘下载，链接：https://pan.baidu.com/s/1sFFWVyidFZZKi76CsKhf6Q?pwd=6666 
-提取码：6666
-
-### 更新日期：2022/3/4
-
 **界面**
 
 ![界面](https://github.com/Javacr/PyQt5-YOLOv5/blob/master/imgs/%E7%95%8C%E9%9D%A2.jpg)
@@ -21,11 +16,6 @@
 
 ![本地视频](https://github.com/Javacr/PyQt5-YOLOv5/blob/master/imgs/%E8%A7%86%E9%A2%91.png)
 
-演示视频：
-[https://www.bilibili.com/video/BV1sQ4y1C7Vk?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1sQ4y1C7Vk?spm_id_from=333.999.0.0)
-
-csdn:
-[https://blog.csdn.net/weixin_41735859/article/details/120507779?spm=1001.2014.3001.5501](https://blog.csdn.net/weixin_41735859/article/details/120507779?spm=1001.2014.3001.5501)
 
 **功能：**
 
@@ -93,4 +83,3 @@ python main.py
         self.cap.set(cv2.CAP_PROP_BUFFERSIZE, 3)  # set buffer size
         self.cap.set(cv2.CAP_PROP_FOURCC, cv2.VideoWriter_fourcc('M', 'J', 'P', 'G'))
 ```
-第二种方法可能对有些电脑不适用。
