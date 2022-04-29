@@ -4,15 +4,15 @@
 
 **界面**
 
-![界面](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/图片.png)
+![界面](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/界面.png)
 
 **本地图片检测画面：**
 
-![本地图片](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/master/imgs/%E5%9B%BE%E7%89%87.png)
+![本地图片](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/图片.png)
 
 **本地视频检测画面：**
 
-![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/master/imgs/%E8%A7%86%E9%A2%91.png)
+![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/视频.png)
 
 
 
