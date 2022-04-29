@@ -4,15 +4,15 @@
 
 **界面**
 
-![界面](https://github.com/Javacr/PyQt5-YOLOv5/blob/master/imgs/%E7%95%8C%E9%9D%A2.jpg)
+![界面](https://github.com/LuckyBoy1798/PyQt5-YOLOv5/blob/master/imgs/%E7%95%8C%E9%9D%A2.png)
 
 **本地图片检测画面：**
 
-![本地图片](https://github.com/Javacr/PyQt5-YOLOv5/blob/master/imgs/%E5%9B%BE%E7%89%87.png)
+![本地图片](https://github.com/LuckyBoy1798/PyQt5-YOLOv5/blob/master/imgs/%E5%9B%BE%E7%89%87.png)
 
 **本地视频检测画面：**
 
-![本地视频](https://github.com/Javacr/PyQt5-YOLOv5/blob/master/imgs/%E8%A7%86%E9%A2%91.png)
+![本地视频](https://github.com/LuckyBoy1798/PyQt5-YOLOv5/blob/master/imgs/%E8%A7%86%E9%A2%91.png)
 
 
 
