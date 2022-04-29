@@ -4,7 +4,7 @@
 
 **界面**
 
-![界面](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/master/imgs/%E7%95%8C%E9%9D%A2.png)
+![界面](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/图片.png)
 
 **本地图片检测画面：**
 
