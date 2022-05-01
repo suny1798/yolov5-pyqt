@@ -1,10 +1,12 @@
 <RCC>
   <qresource prefix="img">
-    <file>icon/aynu.jpg</file>
+    <file>icon/background.jpg</file>
+    <file>icon/bg1.jpg</file>
     <file>icon/button-off.png</file>
     <file>icon/button-on.png</file>
     <file>icon/暂停.png</file>
     <file>icon/笑脸.png</file>
+    <file>icon/bg.jpg</file>
     <file>icon/终止.png</file>
     <file>icon/下拉_白色.png</file>
     <file>icon/正方形.png</file>
@@ -19,7 +21,6 @@
     <file>icon/箭头_列表收起.png</file>
     <file>icon/箭头_列表展开.png</file>
     <file>icon/最小化.png</file>
-    <file>icon/background.jpg</file>
     <file>icon/背景.png</file>
     <file>icon/打开.png</file>
     <file>icon/摄像头关.png</file>
