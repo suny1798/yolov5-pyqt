@@ -460,7 +460,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="../apprcc.qrc">
-    <normaloff>:/img/icon/evil.png</normaloff>:/img/icon/evil.png</iconset>
+    <normaloff>:/img/icon/检测.png</normaloff>:/img/icon/检测.png</iconset>
   </property>
   <property name="autoFillBackground">
    <bool>false</bool>

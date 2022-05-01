@@ -163,7 +163,7 @@ class Ui_mainWindow(object):
         mainWindow.setPalette(palette)
         mainWindow.setMouseTracking(True)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap(":/img/icon/evil.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        icon.addPixmap(QtGui.QPixmap(":/img/icon/检测.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         mainWindow.setWindowIcon(icon)
         mainWindow.setAutoFillBackground(False)
         mainWindow.setStyleSheet("#mainWindow{border:none;}")
