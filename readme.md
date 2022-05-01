@@ -12,7 +12,7 @@
 
 **本地视频检测画面：**
 
-![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/视频.png)
+![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/视频2.png)
 
 
 
