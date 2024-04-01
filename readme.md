@@ -55,3 +55,5 @@ python main.py
 
 本仓库依赖模型有yolov5s.pt、yolov5m.pt、yolov5l.pt、yolov5x.pt,下载地址：https://github.com/ultralytics/yolov5/releases/tag/v5.0
 点击地址后翻到最下面有下载链接，将下载好的模型放在pt文件夹下，运行界面时，**会自动检测已有模型**，也可以放入**自己训练的模型文件**。
+
+项目源自**https://github.com/Javacr/PyQt5-YOLOv5/tree/yolov5_v6.1**
