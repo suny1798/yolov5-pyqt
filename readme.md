@@ -1,22 +1,27 @@
 # 基于yolov5的甲骨文图形化检测工具
 
+* **近期更新**
 
 
-**界面**
+  *使用系统默认状态栏，解决了顶部白色长条的问题，见 [UI文件](https://github.com/suny1798/yolov5-pyqt/blob/main/main_win/win_new.ui)*
+
+
+
+* **界面**
 
 ![界面](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/界面.png)
 
-**本地图片检测画面：**
+* **本地图片检测画面：**
 
 ![本地图片](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/图片.png)
 
-**本地视频检测画面：**
+* **本地视频检测画面：**
 
 ![本地视频](https://github.com/LuckyBoy1798/yolov5-pyqt/blob/main/imgs/视频2.png)
 
 
 
-**功能：**
+* **功能：**
 
 1. 模型选择
 2. 输入选择(本地文件、摄像头、RTSP)；在检测RTSP视频流的时候，尽量不要启用帧间延时，否则会出现很高的延时，用yolo5x模型时，rtsp会很卡，建议抽帧检测, 把main.py中的133-135行注释取消
@@ -33,7 +38,7 @@
 7. 统计检测结果（显示边框时，支持中文标签）
 
 
-**使用：**
+* **使用：**
 ```bash
 # conda创建python虚拟环境
 conda create -n yolov5_pyqt5 python=3.8
